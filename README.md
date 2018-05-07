@@ -3,8 +3,8 @@
 Build image:
 ```
 cd /tmp
-git clone 
-cd ...
+git clone https://github.com/lgcosta/docker-mklivebuilder.git
+cd docker-mklivebuilder
 docker build -t builder-mklivestatus:latest .
 ```
 
